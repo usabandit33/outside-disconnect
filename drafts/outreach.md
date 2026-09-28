@@ -9,5 +9,5 @@ Problem: outdoor emergency disconnect / meter vs separate box
 Metro: Minneapolis
 
 ## Queue
-- EarlyBird Electric — 612-421-1300 — earlybirdelectricians.com — service@legendsmn.com — T1 2026-09-12 · T2 2026-09-15 · **T3 2026-09-22** · T4 due ~09-28/29
+- EarlyBird Electric — 612-421-1300 — earlybirdelectricians.com — service@legendsmn.com — T1 2026-09-12 · T2 2026-09-15 · T3 2026-09-22 · **T4 2026-09-28** (sequence complete unless reply)
 - Others: phone-only on shop site; hold T1 until a published inbox is verified on the same public page.
